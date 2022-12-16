@@ -6,7 +6,7 @@
 
 set -o errexit
 
-WS_DIR="./catkin_ws"
+WS_DIR="./orb_ws"
 ROS_DISTRO="melodic"
 SRC_DIR=${WS_DIR}/src
 mkdir -p ${SRC_DIR}
